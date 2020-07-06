@@ -1,2 +1,2 @@
 # Launcher
-Launcher du serveur Mexico Life sur FiveM
+Launcher Serveurs FiveM
